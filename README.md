@@ -1,2 +1,3 @@
 # react-redux
-React-Redux Practice
+
+React-Redux Practice - Revision
